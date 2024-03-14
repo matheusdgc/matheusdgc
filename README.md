@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **matheusdgo@gmail.com**
 
-- 📄 Know about my experiences [I'm looking for an internship or trainee opportunity](I'm looking for an internship or trainee opportunity)
+- 📄 Know about my experiences (I'm looking for an internship/trainee or volunteering opportunity)
 
 - ⚡ Fun fact **I like to drink Sprite with lemon slices**
 
