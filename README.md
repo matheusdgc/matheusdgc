@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Matheus D. Gomes</h1>
-<h3 align="center">A brazilian passionate about technology and future back-end developer!</h3>
+<h1 align="center">Hi 👋, I'm Matheus D. Gomes Chichura</h1>
+<h3 align="center">A brazilian passionate about technology and future back-end developer!
+  I'm new to programming, but I'm currently dedicating my time 100% to studies, thank you for your understanding</h3>
 
 - 🔭 I’m currently working on [my first portfolio](https://portfolio-omega-nine-49.vercel.app)
 
