@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **matheusdgo@gmail.com**
 
-- 📄 Know about my experiences [Know about my experiences (I'm looking for an internship/trainee or volunteering opportunity)](Know about my experiences (I'm looking for an internship/trainee or volunteering opportunity))
+- 📄 Know about my experiences I'm currently an IT trainee in city hall of my city, but I'm open to new opportunities.
 
 - ⚡ Fun fact **I like to drink Sprite with lemon slices**
 
