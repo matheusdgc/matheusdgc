@@ -8,7 +8,7 @@
 
 ###
 
-<img align="left" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoa2phdWxkYnJkOHRhdTRzMWNiZXZwbjE0dWwxd3VseXN6djc0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
+<img align="left" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoa2phdWxkYnJkOHRhdTRzMWNiZXZwbjE0dWwxd3VseXN6djc0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
 
 ###
 
@@ -46,12 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/matheusdgc/matheusdgc/output/snake.svg" alt="Snake animation" />
 
 ###
 
