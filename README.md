@@ -8,7 +8,7 @@
 
 ###
 
-<img align="left" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoa2phdWxkYnJkOHRhdTRzMWNiZXZwbjE0dWwxd3VseXN6djc0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
+<img align="left" height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoa2phdWxkYnJkOHRhdTRzMWNiZXZwbjE0dWwxd3VseXN6djc0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
 
 ###
 
@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/matheusdgc/matheusdgc/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/matheusdgc/matheusdgc/output/snake.svg" alt="Snake animation" />
 
 ###
 
