@@ -8,11 +8,11 @@
 
 ###
 
-<img align="left" height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoa2phdWxkYnJkOHRhdTRzMWNiZXZwbjE0dWwxd3VseXN6djc0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
+<img align="left" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZoa2phdWxkYnJkOHRhdTRzMWNiZXZwbjE0dWwxd3VseXN6djc0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fByehYIrOIzO8XolJK/giphy.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/matheusdiasgomes_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
