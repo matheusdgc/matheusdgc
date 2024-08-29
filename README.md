@@ -64,7 +64,7 @@
   <br>
 <img align="center" alt="Static Badge" src="https://img.shields.io/badge/-Ryzen%207%205700X-Red?style=flat-square&logo=AMD&logoSize=auto&labelColor=%238B0000&color=%23000000">
 <img align="center" alt="Static Badge" src="https://img.shields.io/badge/-32gb%20DDR4-White?style=flat-square&logo=Buffer&logoColor=%23000000&logoSize=auto&label=RAM&labelColor=%231E90FF&color=%23000000">
-<img align="center" alt="Static Badge" src="https://img.shields.io/badge/-RX%206700%20XT-White?style=flat-square&logo=ASUS&logoColor=%23000000&logoSize=auto&labelColor=%23FFFF00&color=%23000000">
+<img align="center" alt="Static Badge" src="https://img.shields.io/badge/RTX_3080_Ti-black?style=flat-square&logo=Nvidia&logoColor=%23000000&logoSize=auto&label=GeForce&labelColor=%2386f21b&color=%23000000">
 
 
 </div>
