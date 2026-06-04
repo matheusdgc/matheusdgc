@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusdgc&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=matheusdgc&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/matheusdgc/matheusdgc/languages-output/languages.svg" height="200" alt="languages graph"  />
 </div>
 
